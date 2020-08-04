@@ -1,6 +1,6 @@
 # Felipe Brenner
 
-- :mortar_board:   Formado em Técnico em Eletrônica na **Fundação Escola Técnica Liberato Salzano Vieira da Cunha**
+- :mortar_board:   Formado em **Técnico em Eletrônica** na **Fundação Escola Técnica Liberato Salzano Vieira da Cunha**
 - :computer:   Cursando **Ciências da Computação** na **Unisinos**
 - :computer:   Trabalhando na **Cigam Software Corporativo S.A.** com desenvolvimento em **T-SQL (SQL Server)** e **PL/SQL (Oracle)**
 - :computer:   Experiência com projetos e estudos em **C++** e **Java** e aprendendo novas tecnologias
