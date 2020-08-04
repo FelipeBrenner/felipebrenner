@@ -1,9 +1,9 @@
 # Felipe Brenner
 
 - :mortar_board:   Formado em Técnico em Eletrônica na **Fundação Escola Técnica Liberato Salzano Vieira da Cunha**
-- :computer   Cursando Ciências da Computação na **Unisinos**
-- :computer   Trabalhando na **Cigam Software Corporativo S.A.** com desenvolvimento em T-SQL (SQL Server) e PL/SQL (Oracle).
-- :computer   Experiência com projetos e estudos em C++ e Java
+- :computer:   Cursando Ciências da Computação na **Unisinos**
+- :computer:   Trabalhando na **Cigam Software Corporativo S.A.** com desenvolvimento em T-SQL (SQL Server) e PL/SQL (Oracle).
+- :computer:   Experiência com projetos e estudos em C++ e Java
 - :email: Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-FelipeBrenner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-de-oliveira-brenner/)](https://www.linkedin.com/in/felipe-de-oliveira-brenner/) 
 | 
-[![Hotmail Badge](https://img.shields.io/badge/-felipeobrenner@hotmail.com-c14438?style=flat-square&logo=Hotmail&logoColor=white&link=mailto:felipeobrenner@hotmail.com)](mailto:felipeobrenner@hotmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/-felipeobrenner@hotmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:felipeobrenner@hotmail.com)](mailto:felipeobrenner@hotmail.com)
