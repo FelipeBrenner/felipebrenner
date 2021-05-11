@@ -1,4 +1,4 @@
-<h2>Felipe Brenner</h2>
+<h3>Felipe Brenner</h3>
 
 <a href="https://app.rocketseat.com.br/me/felipe-de-oliveira-brenner-conta-ignite" target="_blank" rel="nofollow"><img align="right" width="23rem" src="./assets/rocketseat.png" alt="Rocketseat: @felipe-de-oliveira-brenner-conta-ignite"/></a>
 <a href="https://www.instagram.com/felipeobrenner/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="./assets/instagram.png" alt="Instagram: @felipeobrenner"/></a>
