@@ -14,7 +14,7 @@
 ---
 
 <details open>
-  <summary>📈 <b>Github Stats</b></summary>
+  <summary>📈 <b>GitHub Stats</b></summary>
   <br>
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=felipebrenner&show_icons=true&theme=dark"/>
@@ -24,7 +24,7 @@
 </details>
 
 <details>
-  <summary>🤖 <b>Programming Stats</b></summary>
+  <summary>🤖 <b>Programming Stats</b> <em>(monitorado somente a partir de maio de 2021)</em></summary>
   <br/>
 
   <!--START_SECTION:waka-->
