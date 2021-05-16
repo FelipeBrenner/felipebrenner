@@ -24,7 +24,7 @@
 </details>
 
 <details>
-  <summary>🤖 <b>Programming Stats</b> <em>(monitorado somente a partir de maio de 2021)</em></summary>
+  <summary>🤖 <b>Programming Stats</b></summary>
   <br/>
 
   <!--START_SECTION:waka-->
