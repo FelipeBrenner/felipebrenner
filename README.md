@@ -9,7 +9,7 @@
 - 🎓 Formado em **Técnico em Eletrônica** na **Fundação Escola Técnica Liberato Salzano Vieira da Cunha**
 - 💻 Cursando **Ciências da Computação** na **Unisinos**
 - 💻 Trabalhando na **CIGAM Software de Gestão** com desenvolvimento em **T-SQL (SQL Server)** , **PL/SQL (Oracle)**, **Magic (uniPaaS e xpa)** e **React.js**
-- 💻 Experiência com projetos e estudos em **C++** e **Java** e estudando novas tecnologias como **React.js** e **Node.js**
+- 💻 Experiência com projetos e estudos em **C++** e **Java** e estudando **React.js**
 
 ---
 
