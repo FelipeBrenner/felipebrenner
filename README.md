@@ -32,7 +32,7 @@
 
 > 🏆 521 Contributions in the Year 2021
  > 
-> 📦 128.3 kB Used in GitHub's Storage 
+> 📦 128.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,6 +101,6 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2021
+ Last Updated on 30/11/2021
 <!--END_SECTION:waka-->
 </details>
