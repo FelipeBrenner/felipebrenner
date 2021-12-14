@@ -1,8 +1,8 @@
 <h3>Felipe Brenner</h3>
 
-<a href="https://api.whatsapp.com/send?phone=5551995585968" target="_blank" rel="nofollow"><img align="right" width="35rem" src="./assets/whatsapp.png" alt="Whatsapp: +55 51995585968"/></a>
-<a href="https://www.instagram.com/felipeobrenner/" target="_blank" rel="nofollow"><img align="right" width="35rem" src="./assets/instagram.png" alt="Instagram: @felipeobrenner"/></a>
-<a href="https://www.linkedin.com/in/felipe-de-oliveira-brenner/" target="_blank" rel="nofollow"><img align="right" width="35rem" src="./assets/linkedin.png" alt="LinkedIn: @felipe-de-oliveira-brenner"/></a>
+<a href="https://api.whatsapp.com/send?phone=5551995585968" target="_blank" rel="nofollow"><img align="right" width="30rem" src="./assets/whatsapp.png" alt="Whatsapp: +55 51995585968"/></a>
+<a href="https://www.instagram.com/felipeobrenner/" target="_blank" rel="nofollow"><img align="right" width="30rem" src="./assets/instagram.png" alt="Instagram: @felipeobrenner"/></a>
+<a href="https://www.linkedin.com/in/felipe-de-oliveira-brenner/" target="_blank" rel="nofollow"><img align="right" width="30rem" src="./assets/linkedin.png" alt="LinkedIn: @felipe-de-oliveira-brenner"/></a>
 
 ---
 
