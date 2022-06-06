@@ -8,9 +8,7 @@
 
 - 🎓 Formado em **Técnico em Eletrônica** na **Fundação Escola Técnica Liberato Salzano Vieira da Cunha**
 - 💻 Cursando **Ciência da Computação** na **Unisinos**
-- 💻 Trabalhando na **CIGAM Software de Gestão**
-  - Front-end: **React.js**, **JavaScript**, **TypeScript**, **MUI** e **Redux**
-  - Back-end: **T-SQL (SQL Server)** , **PL/SQL (Oracle)** e **Magic (uniPaaS e xpa)**
+- 💻 Trabalhando na **NTT DATA Europe & Latam**, com atuação no cliente **BEES**, marketplace B2B da **Ambev**.
 - 💻 Estudando **React.js** e **React Native**
 
 ---
