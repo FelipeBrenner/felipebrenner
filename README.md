@@ -7,9 +7,9 @@
 ---
 
 - 🎓 Formado em **Técnico em Eletrônica** na **Fundação Escola Técnica Liberato Salzano Vieira da Cunha**
-- 💻 Cursando **Ciência da Computação** na **Unisinos**
-- 💻 Trabalhando na **NTT DATA Europe & Latam**, com atuação no cliente **BEES**, marketplace B2B da **Ambev**.
-- 💻 Estudando **React.js** e **React Native**
+- 📓 Cursando **Ciência da Computação** na **Unisinos**
+- 🖥️ Trabalhando na **NTT DATA Europe & Latam**, com atuação no cliente **BEES**, marketplace B2B da **Ambev**
+- 💻 Estudando constantemente **React.js** e **React Native**
 
 ---
 
