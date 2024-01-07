@@ -52,7 +52,7 @@
   <br/>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C530%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C531%20hrs%203%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -91,16 +91,19 @@ Sunday                   171 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               36 mins             █████████████████░░░░░░░░   69.87 % 
+JSON                     15 mins             ████████░░░░░░░░░░░░░░░░░   30.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  52 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+web-link-order-tracking  30 mins             ██████████████░░░░░░░░░░░   57.34 % 
+bees-engine-hexa         17 mins             ████████░░░░░░░░░░░░░░░░░   33.14 % 
+web-link-global          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      52 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -116,6 +119,6 @@ SystemVerilog            1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2024 02:26:24 UTC
+ Last Updated on 07/01/2024 02:32:27 UTC
 <!--END_SECTION:waka-->
 </details>
