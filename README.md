@@ -9,7 +9,7 @@
 
 - 🎓 Formado em **Técnico em Eletrônica** na **Fundação Escola Técnica Liberato Salzano Vieira da Cunha**
 - 📓 Cursando **Ciência da Computação** na **Unisinos**
-- 🖥️ Trabalhando na **NTT DATA Europe & Latam**, com atuação no cliente **BEES**, marketplace B2B da **Ambev** e **AB InBev**
+- 🖥️ Trabalhando na **AB InBev**, com atuação no marketplace B2B **BEES**
 
 ---
 
