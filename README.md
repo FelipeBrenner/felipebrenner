@@ -8,7 +8,7 @@
 ---
 
 - 🎓 Formado em **Técnico em Eletrônica** na **Fundação Escola Técnica Liberato Salzano Vieira da Cunha**
-- 📓 Cursando **Ciência da Computação** na **Unisinos**
+- 📓 Formado em **Ciência da Computação** na **Unisinos**
 - 🖥️ Trabalhando na **AB InBev**, com atuação no marketplace B2B **BEES**
 
 ---
