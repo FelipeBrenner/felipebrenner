@@ -52,8 +52,6 @@
   <br/>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C424%20hrs%204%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 463.7 kB Used in GitHub's Storage 
@@ -116,6 +114,6 @@ SystemVerilog            1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 05:29:17 UTC
+ Last Updated on 24/07/2026 05:23:46 UTC
 <!--END_SECTION:waka-->
 </details>
